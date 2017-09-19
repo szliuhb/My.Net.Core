@@ -1,0 +1,9 @@
+E:\OneDrive\Project\GitHub\My.Net.Core\bin\Debug\netcoreapp1.1\My.Net.Core.deps.json
+E:\OneDrive\Project\GitHub\My.Net.Core\bin\Debug\netcoreapp1.1\My.Net.Core.runtimeconfig.json
+E:\OneDrive\Project\GitHub\My.Net.Core\bin\Debug\netcoreapp1.1\My.Net.Core.runtimeconfig.dev.json
+E:\OneDrive\Project\GitHub\My.Net.Core\bin\Debug\netcoreapp1.1\My.Net.Core.dll
+E:\OneDrive\Project\GitHub\My.Net.Core\bin\Debug\netcoreapp1.1\My.Net.Core.pdb
+E:\OneDrive\Project\GitHub\My.Net.Core\obj\Debug\netcoreapp1.1\My.Net.Core.csprojResolveAssemblyReference.cache
+E:\OneDrive\Project\GitHub\My.Net.Core\obj\Debug\netcoreapp1.1\My.Net.Core.AssemblyInfo.cs
+E:\OneDrive\Project\GitHub\My.Net.Core\obj\Debug\netcoreapp1.1\My.Net.Core.dll
+E:\OneDrive\Project\GitHub\My.Net.Core\obj\Debug\netcoreapp1.1\My.Net.Core.pdb
